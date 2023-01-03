@@ -2,5 +2,11 @@ p{
     color: blue;
 }
 h3{
-    color: brown;
+    color: navy;
+}
+h2{
+    background-color: lime;
+}
+h1{
+    color: blueviolet;
 }
